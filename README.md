@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nzrsky-xctools-mcp-server-badge.png)](https://mseep.ai/app/nzrsky-xctools-mcp-server)
+
 # XCTools MCP Server
 
 A Model Context Protocol (MCP) server that provides structured access to Xcode development tools including `xcrun`, `xcodebuild`, and `xctrace`.
